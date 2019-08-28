@@ -32,7 +32,9 @@ This project is a smart Parking system, obtains information about available park
 
 
 
-### Flowchart 
+
+
+## Flowchart 
 
 ![alt text](https://i.imgur.com/xqV15BV.png)
 
